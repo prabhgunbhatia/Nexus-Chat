@@ -9,11 +9,12 @@ Nexus Chat is a simple and real-time chat application built using Flask and Sock
 - **Real-time Messaging**: Send and receive messages in real-time using WebSockets.
 - **Session Management**: Keep track of users' sessions and ensure a seamless experience.
 - **User Notifications**: Notify users when someone enters or leaves the room.
+  
 
-## Screenshots
-- **Home Page**
-- **Chat Room**
-- **Message Sending**
+![image](https://github.com/user-attachments/assets/d67e0256-b4bf-48a2-9e19-2cc8d92831bf)
+
+![image](https://github.com/user-attachments/assets/47260be7-cd22-4e39-8f59-20b7b12105a0)
+
 
 ## Requirements
 - Python 3.x
